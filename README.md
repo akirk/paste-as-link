@@ -7,5 +7,5 @@ When you have a link in the clipboard, press Shift-Ctrl-A and for HTML it will r
 
 and in Markdown
 ```md
-\[selected text\]\(https://clipboard-link\)
+[selected text](https://clipboard-link)
 ```
